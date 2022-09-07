@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,python**
 
-- 📫 How to reach me **mayarmohsan_psw@fci.helwan.edu.eg**
+- 📫 How to reach me **mayaramein@outlook.com**
 
 - 📄 Know about my experiences [https://resume.io/r/TU0Bz9lYw](https://resume.io/r/TU0Bz9lYw)
 
