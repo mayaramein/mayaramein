@@ -8,7 +8,7 @@
   ![](https://img.shields.io/badge/Software_Engineer-ffc53b?style=flat)  ![](https://img.shields.io/badge/Full_Stack_Web_Developer-ffc53b?style=flat)  ![](https://img.shields.io/badge/Front_End_UI_developer-ffc53b?style=flat)
 
 
- [![](https://img.shields.io/badge/website-5333ed?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/mayaramein)
+ [![](https://img.shields.io/badge/website-5333ed?style=for-the-badge&logo=About.me&logoColor=white)](https://mayaramein.github.io/mayaramein-portfolio/home)
 [![](https://img.shields.io/badge/LinkedIn-5333ed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayaramein) 
 
   
