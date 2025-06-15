@@ -5,7 +5,7 @@
  
  <h3 align="center">A passionate</h3>
   
- ![](https://img.shields.io/badge/Data_Scientist-ffcb33?style=flat)  ![](https://img.shields.io/badge/Software_Engineer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Full_Stack_Web_Developer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Front_End_UI_developer-ffcb33?style=flat)
+ ![](https://img.shields.io/badge/Software_Engineer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Full_Stack_Web_Developer-ffcb33?style=flat)  
 
 
  [![](https://img.shields.io/badge/website-ebdcff?style=for-the-badge&logo=About.me&logoColor=black)](http://mayaramein.com/)
@@ -14,21 +14,10 @@
 
 </div>
 
-<div align="center">
 
- 
- <h1 align="center">Websites</h1>
- 
-  [![](https://img.shields.io/badge/Novo_Elevators-ebdcff?style=for-the-badge&)](http://novo-elevators.com/) 
-  [![](https://img.shields.io/badge/Kixat-ebdcff?style=for-the-badge&)](http://novo-elevators.com/) 
-  [![](https://img.shields.io/badge/The_River_Spa-ebdcff?style=for-the-badge&)](https://river.com.sa/) 
-  
+ 🌱 I’m currently learning **AI Engineering**
 
-</div>
-
- 🌱 I’m currently learning **Data Science**
-
- 💬 Ask me about **.NET,Angular** 
+ 💬 Ask me about **.NET,Data Science** 
 
  📫 How to reach me  [![](https://img.shields.io/badge/Microsoft_Outlook-ebdcff?style=flat&logo=microsoft-outlook&logoColor=black)](mailto:mayaramein@outlook.com)  [![](https://img.shields.io/badge/Gmail-ebdcff?style=flat&logo=gmail&logoColor=black)](mailto:mayaramein@gmail.com) 
  
@@ -37,22 +26,11 @@
  ⚡ Fun fact **Programming is hard**
 
 <p align="center">
- <a href="https://kaggle.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://codepen.io/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mayaramein" height="30" width="40" /></a> 
- <a href="https://codesandbox.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://medium.com/@mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mayaramein" height="30" width="40" /></a>
- <a href="https://dev.to/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/9035835" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9035835" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/mayaramein/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayaramein/profile" height="30" width="40" /></a>
- <br /> 
- <br /> 
+ <a href="https://kaggle.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayaramein" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayaramein" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/mayaramein" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://www.topcoder.com/members/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mayaramein" height="30" width="40" /></a>
- <a href="https://hashnode.com/@mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mayaramein" height="30" width="40" /></a>
- <a href="https://www.hackerearth.com/@mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mayaramein" height="30" width="40" /></a>
+
+
 
 <!-- <a href="https://twitter.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayaramein" height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayaramein" height="30" width="40" /></a> -->
@@ -62,10 +40,28 @@
 <!-- <a href="https://fb.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayaramein" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayaramein" height="30" width="40" /></a> -->
 <!-- <a href="https://dribbble.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mayaramein" height="30" width="40" /></a> -->
-<!-- <a href="https://www.behance.net/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mayaramein" height="30" width="40" /></a> -->
+<!-- <a href="https://www.behance.net/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mayaramein" height="30" width="40" /></a>
+
+<a href="https://codepen.io/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mayaramein" height="30" width="40" /></a>
+
+ <a href="https://www.codechef.com/users/mayaramein" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayaramein" height="30" width="40" /></a>
+ <a href="https://www.topcoder.com/members/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mayaramein" height="30" width="40" /></a>
+ <a href="https://hashnode.com/@mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mayaramein" height="30" width="40" /></a>
+ <a href="https://www.hackerearth.com/@mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mayaramein" height="30" width="40" /></a>
+-->
 
 
-<!-- <a href="https://www.youtube.com/c/mayar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayar" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/c/mayar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayar" height="30" width="40" /></a>
+
+ <a href="https://codeforces.com/profile/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayaramein" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mayaramein" height="30" width="40" /></a>
+ <a href="https://medium.com/@mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mayaramein" height="30" width="40" /></a>
+ <a href="https://dev.to/mayaramein" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mayaramein" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/9035835" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9035835" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/mayaramein/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayaramein/profile" height="30" width="40" /></a>
+
+
+-->
 
 
 
@@ -120,7 +116,7 @@
  ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
  
 
  ![]()
@@ -159,7 +155,10 @@
  
 
 
-<!--  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  -->
+<!--  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  
+ ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+-->
  
 <!--  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  -->
 <!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
