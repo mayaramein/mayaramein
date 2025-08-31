@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate</h3>
 
-![](https://img.shields.io/badge/Senior_Software_Engineer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Full_Stack_.NET_Developer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Data_Scientist-ffcb33?style=flat)  
+![](https://img.shields.io/badge/Software_Engineer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Full_Stack_.NET_Developer-ffcb33?style=flat)  ![](https://img.shields.io/badge/Data_Scientist-ffcb33?style=flat)  
 
 [![](https://img.shields.io/badge/website-ebdcff?style=for-the-badge&logo=About.me&logoColor=black)](http://mayaramein.com/)  
 [![](https://img.shields.io/badge/LinkedIn-ebdcff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mayaramein)  
@@ -46,7 +46,6 @@
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <br/>
@@ -54,7 +53,6 @@
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </p>
 
