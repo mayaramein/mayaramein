@@ -27,7 +27,7 @@
 
 I am a **results-driven Software Engineer** who designs and ships full-stack systems end-to-end — from clarifying requirements with clients to secure APIs, admin panels, storefronts, and integrations.
 
-Since **December 2022**, I have been a **.NET Software Developer at Codeware (Kuwait, remote)**, owning delivery across **multi-country e-commerce**, **ERP-style operations**, **endowment and governance platforms**, **agency operations**, and **mobile app backends** in a small collaborative team.
+Since **2022**, I have been a **.NET Software Developer**, owning delivery across **multi-country e-commerce**, **ERP-style operations**, **endowment and governance platforms**, **agency operations**, and **mobile app backends** in a small collaborative team.
 
 In parallel, I invest in **data science, cloud, and generative AI** (DEBI, DEPI, ALX, and continuous learning), connecting solid engineering with data-informed and AI-assisted products.
 
@@ -38,49 +38,6 @@ In parallel, I invest in **data science, cloud, and generative AI** (DEBI, DEPI,
 - Client communication — estimates, trade-offs, and protecting production money/data paths
 - Bilingual products (**Arabic / English**, RTL) for real markets
 
----
-
-## Selected production work
-
-*Summaries aligned with my [projects showcase](https://mayaramein.com/portfolio) and CV — strongest platforms first.*
-
-### Codeware · web & ERP
-
-| Project | Domain | Highlights | Link |
-|--------|--------|------------|------|
-| **Mashaer** | Multi-country perfume e-commerce → ERP | Store, admin, ops; BNPL/card payments; inventory, logistics, accounting integrations | [mashaer.store](https://mashaer.store/) |
-| **PropWash** | Property rental + commercial laundry | Leases, rent collection, laundry orders, shared invoicing; domain rules covered by tests | — |
-| **AlKawthar Waqf** | Endowment / grant management | Public CMS + admin; multi-stage approvals, budgets, instalments, FastReport | [alkawtharwaqf.com](https://alkawtharwaqf.com/) |
-| **Beyout** | Legal / governance / stock affairs | Enterprise Razor app; permissions, Hangfire reminders, reporting | [beyout.com](https://www.beyout.com/) |
-| **TechSite** | SaaS-style site builder | Templates, CMS, affiliate features; several .NET generations | [techsitekw.com](https://techsitekw.com/) |
-| **Deverse** | Digital agency operations | CRM, proposals, orders, invoicing, delivery projects; Blazor + Angular + Next.js | — |
-| **AlBaheth** | Classifieds + business directory | Ads, quotations, lost-and-found, chat; mobile-oriented APIs | [albaheth.me](https://albaheth.me/) |
-
-### Mobile backends (Web API + admin)
-
-| App | Domain | Link |
-|-----|--------|------|
-| **IHCC Pharmacy** | Pharmacy catalog, orders, delivery | [Google Play](https://play.google.com/store/apps/details?id=com.codeware.ihcc) |
-| **Qpart** | Auto spare parts / roadside services | [Google Play](https://play.google.com/store/apps/details?id=com.codeware.qpart) |
-| **The Games** | Gaming marketplace / tournaments | [App Store](https://apps.apple.com/us/app/the-games/id6444512307) |
-
-### Freelance & architecture-heavy builds
-
-| Project | Stack / focus | Link |
-|--------|----------------|------|
-| **Kixat** | Angular + ASP.NET Core Web API | [kixat.com](https://kixat.com/) |
-| **Academy platform** | Angular learner UI, Blazor admin, .NET API | ongoing |
-| **Multi-tenant commerce** (in development) | .NET 10 Clean Architecture, Angular 20, Next.js 16 | — |
-| **Novo Elevators** | React + Firebase marketing site | [novo-elevators.com](https://novo-elevators.com/) |
-
-### Architecture patterns I apply
-
-| Area | What I work with |
-|------|------------------|
-| **Modular / Clean Architecture** | Modular monoliths, MediatR, CQRS-style flows, DDD building blocks |
-| **Angular + .NET APIs** | Public/admin SPAs against ASP.NET Core backends |
-| **Blazor** | Admin and operations apps (Server & WASM hosting) |
-| **Integrations** | Tabby, Tamara, Hesabe; FCM; email/SMS; FastReport, QuestPDF, DevExpress |
 
 ---
 
